@@ -1,0 +1,14 @@
+C:\Users\jphda\OneDrive - Universidad Autonoma de Yucatan\Escritorio\8vo. Semestre\Programacion con lenguaje visual\repos\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.exe
+C:\Users\jphda\OneDrive - Universidad Autonoma de Yucatan\Escritorio\8vo. Semestre\Programacion con lenguaje visual\repos\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.deps.json
+C:\Users\jphda\OneDrive - Universidad Autonoma de Yucatan\Escritorio\8vo. Semestre\Programacion con lenguaje visual\repos\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.runtimeconfig.json
+C:\Users\jphda\OneDrive - Universidad Autonoma de Yucatan\Escritorio\8vo. Semestre\Programacion con lenguaje visual\repos\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.runtimeconfig.dev.json
+C:\Users\jphda\OneDrive - Universidad Autonoma de Yucatan\Escritorio\8vo. Semestre\Programacion con lenguaje visual\repos\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.dll
+C:\Users\jphda\OneDrive - Universidad Autonoma de Yucatan\Escritorio\8vo. Semestre\Programacion con lenguaje visual\repos\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.pdb
+C:\Users\jphda\OneDrive - Universidad Autonoma de Yucatan\Escritorio\8vo. Semestre\Programacion con lenguaje visual\repos\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.csproj.AssemblyReference.cache
+C:\Users\jphda\OneDrive - Universidad Autonoma de Yucatan\Escritorio\8vo. Semestre\Programacion con lenguaje visual\repos\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jphda\OneDrive - Universidad Autonoma de Yucatan\Escritorio\8vo. Semestre\Programacion con lenguaje visual\repos\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.AssemblyInfoInputs.cache
+C:\Users\jphda\OneDrive - Universidad Autonoma de Yucatan\Escritorio\8vo. Semestre\Programacion con lenguaje visual\repos\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.AssemblyInfo.cs
+C:\Users\jphda\OneDrive - Universidad Autonoma de Yucatan\Escritorio\8vo. Semestre\Programacion con lenguaje visual\repos\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.csproj.CoreCompileInputs.cache
+C:\Users\jphda\OneDrive - Universidad Autonoma de Yucatan\Escritorio\8vo. Semestre\Programacion con lenguaje visual\repos\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.dll
+C:\Users\jphda\OneDrive - Universidad Autonoma de Yucatan\Escritorio\8vo. Semestre\Programacion con lenguaje visual\repos\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.pdb
+C:\Users\jphda\OneDrive - Universidad Autonoma de Yucatan\Escritorio\8vo. Semestre\Programacion con lenguaje visual\repos\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.genruntimeconfig.cache
