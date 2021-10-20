@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Conteo caracteres/1.0.0": {
+        "runtime": {
+          "Conteo caracteres.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conteo caracteres/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
